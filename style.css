@@ -1,0 +1,43 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+h4{
+    font-weight: bold;
+    font-family: monospace;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border-width: 5px;
+    border-color: black;
+}
+.img{
+    margin-bottom: 20px;
+    border-width: 5px;
+    border-style: ridge;
+    border-color: black;
+}
+#img1:hover{
+    border-radius: 100px;
+    border-width: 5px;
+    border-color: blue;
+}
+#img2:hover{
+    border-radius: 100px;
+    border-width: 5px;
+    border-color: blue;
+}
+#img3:hover{
+    border-radius: 100px;
+    border-width: 5px;
+    border-color: blue;
+}
+#img4:hover{
+    border-radius: 100px;
+    border-width: 5px;
+    border-color: blue;
+}
